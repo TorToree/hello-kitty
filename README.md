@@ -7,3 +7,8 @@ hello-kitty
 
 
 <pre lang=python><code>import *</code><br /><code>// I just did a terrible thing</code></pre>
+
+# This one
+
+<pre lang=python><code>import *
+// I just did a terrible thing</code></pre>
