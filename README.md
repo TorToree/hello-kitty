@@ -1,10 +1,9 @@
 hello-kitty
 ===========
 
-<div class="highlight highlight-js"><pre><span class="kd">var</span> <span class="nx">iThikgThis</span><span class="p">,</span>
-<span class="nx">willWork</span><span class="p">;</span>
+| Big Header | Big Head | Tail Header| 
+|------------|----------|------------| 
+| <pre lang=python><code>import *</code></pre><pre lang=python><code>// I just did a terrible thing</code></pre> | <pre lang=python><code>var iThikgThis,<br />willWork;<br /><br/>function hopingToSeeTheResults() {<br />iThinksThis = 'working';<br />}</code></pre> | 
 
-<span class="kd">function</span> <span class="nx">hopingToSeeTheResults</span><span class="p">()</span> <span class="p">{</span>
-<span class="nx">iThinksThis</span> <span class="o">=</span> <span class="s1">'working'</span><span class="p">;</span>
-<span class="p">}</span>
-</pre></div>
+
+<pre lang=python><code>import *</code><br /><code>// I just did a terrible thing</code></pre>
