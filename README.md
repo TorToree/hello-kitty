@@ -14,11 +14,10 @@ iThinksThis = 'working';
 }
 ```
 
-| Big Header | Big Head | Tail Header|
-|------------|----------|------------|
-| | | |
+<div class="highlight highlight-js"><pre><span class="kd">var</span> <span class="nx">iThikgThis</span><span class="p">,</span>
+<span class="nx">willWork</span><span class="p">;</span>
 
-
-<div class="highlight highlight-python"><pre><span class="kn">import</span> <span class="o">*</span>
-<span class="o">//</span> <span class="n">I</span> <span class="n">just</span> <span class="n">did</span> <span class="n">a</span> <span class="n">terrible</span> <span class="n">thing</span>
+<span class="kd">function</span> <span class="nx">hopingToSeeTheResults</span><span class="p">()</span> <span class="p">{</span>
+<span class="nx">iThinksThis</span> <span class="o">=</span> <span class="s1">'working'</span><span class="p">;</span>
+<span class="p">}</span>
 </pre></div>
